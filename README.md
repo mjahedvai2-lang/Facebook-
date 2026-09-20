@@ -6,6 +6,6 @@ apt install git
 apt install cloudflared
 apt install python -y
 pip install colorama
-git clone https://github.com/Ehmunna/EH-GPHIS.git
+git https://github.com/mjahedvai2-lang/Facebook-.git
 cd EH-GPHIS
 python GFISH.py
